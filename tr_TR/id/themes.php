@@ -1,9 +1,9 @@
 <?php
 
 $lang = [
-	'default' => 'Varsayılan',
+	'default' => 'Varsayılan Tema',
 	'light' => 'Açık',
-	'dark' => 'Karanlık'
+	'dark' => 'Koyu'
 ];
 
 echo json_encode($lang);
